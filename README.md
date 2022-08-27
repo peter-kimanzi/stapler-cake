@@ -10,3 +10,5 @@ Oh no! The CSS stapler was cake! (CSS cake)
 ## live link
 
 https://peter-kimanzi.github.io/stapler-cake/
+
+## screenshots
