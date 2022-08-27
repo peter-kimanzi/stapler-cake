@@ -8,3 +8,5 @@ Oh no! The CSS stapler was cake! (CSS cake)
 * CSS
 
 ## live link
+
+https://peter-kimanzi.github.io/stapler-cake/
