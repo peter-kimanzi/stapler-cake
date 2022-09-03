@@ -17,4 +17,4 @@ https://peter-kimanzi.github.io/stapler-cake/
 
 ![step](https://user-images.githubusercontent.com/71552773/187026552-1aeecbc0-04d7-44db-a8ad-cdb078c1fe97.PNG)
 
-## Don't forget to star rep
+
