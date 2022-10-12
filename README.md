@@ -1,6 +1,6 @@
 # stapler-cake
 
-The CSS stapler was cake! (CSS cake)
+The CSS stapler was cake! (CSS cake).
 
 ## Technologies used
 
